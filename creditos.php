@@ -34,6 +34,10 @@
 
 <div class="pie">
 	<p>3er parcial</p>
+	<a href="index.php">Inicio</a><br/>
+	<a href="consulta.php">Consulta de usuarios</a><br/>
+<a href="contacto.php">Contacto</a>
+
 </div>
 </div>
 </body>
