@@ -52,8 +52,8 @@
 		</div>
 
 		<div class="pie">
-	<a href="contacto.php">Contacto</a>
-	<a href="consulta.php">Consulta de usuarios</a>
+			<a href="contacto.php">Contacto</a><p> | </p>
+	<a href="consulta.php">Consulta de usuarios</a><p> | </p>
         <a href="creditos.php">Creditos</a>
 		</div>
 	</div>
